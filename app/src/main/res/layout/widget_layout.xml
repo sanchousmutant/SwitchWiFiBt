@@ -8,16 +8,20 @@
 
     <ImageButton
         android:id="@+id/wifi_button"
-        android:layout_width="48dp"
-        android:layout_height="48dp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
         android:src="@drawable/ic_wifi"
+        android:scaleType="fitCenter"
         android:contentDescription="Wi-Fi" />
 
     <ImageButton
         android:id="@+id/bluetooth_button"
-        android:layout_width="48dp"
-        android:layout_height="48dp"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
         android:src="@drawable/ic_bluetooth"
+        android:scaleType="fitCenter"
         android:contentDescription="Bluetooth" />
 
 </LinearLayout> 
