@@ -9,8 +9,8 @@ android {
 
     defaultConfig {
         applicationId = "com.example.switchwifibt"
-        minSdk = 34
-        targetSdk = 35
+        minSdk = 31
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
