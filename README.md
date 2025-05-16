@@ -34,7 +34,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/SwitchWiFiBt.git
+git clone https://github.com/sanchousmutant/SwitchWiFiBt.git
 ```
 
 2. Откройте проект в Android Studio
